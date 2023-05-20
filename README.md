@@ -1,6 +1,6 @@
-# YuzyukRomanRevers
+# String reverse
 
 ##  Установка
 ```
-composer require ro/yuzyuk-roman-revers
+composer require yuzyuk-roman/reverse
 ```

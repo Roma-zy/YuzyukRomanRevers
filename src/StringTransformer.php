@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ro\YuzyukRomanRevers;
+namespace YuzyukRoman\Reverse;
 
 class StringTransformer
 {

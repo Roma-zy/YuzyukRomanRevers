@@ -1,9 +1,9 @@
 {
-    "name": "ro/yuzyuk-roman-revers",
+    "name": "yuzyuk-roman/reverse",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Ro\\YuzyukRomanRevers\\": "src/"
+            "YuzyukRoman\\Reverse\\": "src/"
         }
     },
     "authors": [
