@@ -1,0 +1,18 @@
+{
+    "name": "ro/yuzyuk-roman-revers",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ro\\YuzyukRomanRevers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roman Yuzyuk",
+            "email": "romanyuzyukfront@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
